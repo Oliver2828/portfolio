@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 // Importing the images
 import project1Image from '../assets/Image1.jpg';
 import project2Image from '../assets/Image2.jpg';
-import project3Image from '../assets/Image3.png';
+import project3Image from '../assets/Image3.jpg';
 
 const projectsData = [
   {
